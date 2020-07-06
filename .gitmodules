@@ -1,0 +1,3 @@
+[submodule "aristotle"]
+	path = aristotle
+	url = git@github.com:craftsman-rgb/aristotle.git
